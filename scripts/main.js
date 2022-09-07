@@ -9,3 +9,10 @@ myImage.onclick = function () {
     }
 
 }
+
+
+// let a = document.getElementsByClassName("btn");
+// for (let i in a) {
+//     console.log(a[i]);
+// }
+
